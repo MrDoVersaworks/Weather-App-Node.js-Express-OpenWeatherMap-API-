@@ -1,7 +1,7 @@
 
 ---
 
-### 3. **Weather App (Node.js, Express, OpenWeatherMap API)**
+### **Weather App (Node.js, Express, OpenWeatherMap API)**
 
 #### README Example:
 ```markdown
