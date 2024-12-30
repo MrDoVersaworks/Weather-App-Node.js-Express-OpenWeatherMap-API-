@@ -21,6 +21,3 @@ A weather forecasting application that retrieves real-time weather data from the
 3. Replace `YOUR_API_KEY` in the code with a valid API key from [OpenWeatherMap](https://openweathermap.org/api).
 4. Start the server: `npm start`
 5. Access the weather data by visiting `http://localhost:3000/weather/{city}` in your browser.
-
-## License:
-MIT License
